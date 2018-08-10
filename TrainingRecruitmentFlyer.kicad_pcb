@@ -2,8 +2,8 @@
 
   (general
     (links 259)
-    (no_connects 2)
-    (area 116.32154 81.433999 192.4064 235.47846)
+    (no_connects 0)
+    (area 116.32154 81.433999 192.4064 236.62146)
     (thickness 1.6)
     (drawings 63)
     (tracks 264)
@@ -37,7 +37,7 @@
   )
 
   (setup
-    (last_trace_width 0.762)
+    (last_trace_width 0.25)
     (user_trace_width 0.254)
     (user_trace_width 0.4064)
     (user_trace_width 0.508)
@@ -9154,7 +9154,7 @@
   (gr_text "Questions? Contact Marsrover@mst.edu,\nJacob Lipina (jrlwd5@mst.edu), or\nAndrew Van Horn (asvgdv@mst.edu)" (at 155.702 230.251) (layer F.SilkS)
     (effects (font (size 1.1 1.1) (thickness 0.275)))
   )
-  (gr_text "Learn to Design PCBs in 3 Training Sessions\nCS206 from 2-4PM on 9/15, 9/22, & 9/29." (at 155.956 224.028) (layer F.SilkS)
+  (gr_text "Learn to Design PCBs in THREE Sessions\nCS206 from 2-4PM on 9/15, 9/22, & 9/29." (at 155.956 224.028) (layer F.SilkS)
     (effects (font (size 1.1 1.1) (thickness 0.275)))
   )
   (gr_text "Attend ONE Onboarding Meeting in\nEMAN103 at 8PM on 8/28, 8/29, or 8/30." (at 155.956 218.313) (layer F.SilkS)
