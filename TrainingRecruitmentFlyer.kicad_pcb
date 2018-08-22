@@ -9151,7 +9151,7 @@
   (gr_text "#ROVESOHARD" (at 132.842 153.924) (layer F.SilkS)
     (effects (font (size 5 2.5) (thickness 0.3)))
   )
-  (gr_text "Questions? Contact Marsrover@mst.edu,\nJacob Lipina (jrlwd5@mst.edu), or\nAndrew Van Horn (asvgdv@mst.edu)" (at 155.702 230.251) (layer F.SilkS)
+  (gr_text "Questions? Contact Marsrover@mst.edu,\nJacob Lipina (jrlwd5@mst.edu), or\nAndrew Van Horn (asvdgv@mst.edu)" (at 155.702 230.251) (layer F.SilkS)
     (effects (font (size 1.14 1.4) (thickness 0.275)))
   )
   (gr_text "Learn to Design PCBs in THREE Sessions\nEmerson105; 2-4PM; Sat. Sept. 15, 22, & 29." (at 155.956 224.028) (layer F.SilkS)
